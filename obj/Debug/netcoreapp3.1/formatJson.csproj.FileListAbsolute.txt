@@ -1,0 +1,13 @@
+C:\Users\14022\SDG\week8\formatJson\obj\Debug\netcoreapp3.1\formatJson.csprojAssemblyReference.cache
+C:\Users\14022\SDG\week8\formatJson\obj\Debug\netcoreapp3.1\formatJson.AssemblyInfoInputs.cache
+C:\Users\14022\SDG\week8\formatJson\obj\Debug\netcoreapp3.1\formatJson.AssemblyInfo.cs
+C:\Users\14022\SDG\week8\formatJson\bin\Debug\netcoreapp3.1\formatJson.exe
+C:\Users\14022\SDG\week8\formatJson\bin\Debug\netcoreapp3.1\formatJson.deps.json
+C:\Users\14022\SDG\week8\formatJson\bin\Debug\netcoreapp3.1\formatJson.runtimeconfig.json
+C:\Users\14022\SDG\week8\formatJson\bin\Debug\netcoreapp3.1\formatJson.runtimeconfig.dev.json
+C:\Users\14022\SDG\week8\formatJson\bin\Debug\netcoreapp3.1\formatJson.dll
+C:\Users\14022\SDG\week8\formatJson\bin\Debug\netcoreapp3.1\formatJson.pdb
+C:\Users\14022\SDG\week8\formatJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\14022\SDG\week8\formatJson\obj\Debug\netcoreapp3.1\formatJson.csproj.CopyComplete
+C:\Users\14022\SDG\week8\formatJson\obj\Debug\netcoreapp3.1\formatJson.dll
+C:\Users\14022\SDG\week8\formatJson\obj\Debug\netcoreapp3.1\formatJson.pdb
